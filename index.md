@@ -2,16 +2,16 @@
 title: Home
 layout: default
 ---
-
+<!--
 <div id="twosided">
 <div id="left" style="float: left; max-width: 30%;border: 10px"> 
-    <!--<img src="images/profile.jpg" />-->
+    <img src="images/profile.jpg" />
 </div>
 <div id="right" style="float: right; width: 65%; vertical-align: middle;">
 <p> <b>David Joy</b> <br> <em>MSCS Student, University of Texas at Austin</em> </p>
 <p> <a href="resume.pdf">Resume</a> </p>
 </div>
-</div>
+</div>-->
 <div id="clearer" style="clear: both"> </div>
 
 I am currently pursuing a Masters of Computer Science at UT Austin. I started Fall 2024 and plan to graduate December 2025.

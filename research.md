@@ -5,7 +5,7 @@ layout: default
 
 ## Research Interests
 
-My research interests are at the intersections of quantum computing, high-performance computing, and artifical intelligence.  My current primary interest is the use of quantum computing for classical optimization problems, specifically using QAOA to boost the performance of genetic algorithms.  I plan to pursue this as my MSCS thesis and am currently searching for an advisor.
+My research interests are at the intersections of quantum computing, high-performance computing, and artifical intelligence.  My current primary interest is the using quantum computing to boost classical optimization problems, especially through the use of genetic genetic algorithms.  I plan to pursue this as my MSCS thesis and am currently searching for an advisor.
 
 ## Past Research
 
