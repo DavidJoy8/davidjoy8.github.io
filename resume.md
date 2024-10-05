@@ -1,4 +1,6 @@
 ---
-layout: none
-redirect_to: /resume.pdf
+layout: null
+permalink: /resume/
 ---
+
+<meta http-equiv="refresh" content="0; url=/resume.pdf" />
