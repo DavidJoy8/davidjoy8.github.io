@@ -13,6 +13,18 @@ During the 2023-2024 academic year, I was a research intern at Oak Ridge Nationa
 
 **Summer 2023:** I was mentored by Dr. [Stephen DeWitt](https://www.ornl.gov/staff-profile/stephen-dewitt) and Dr. [Sam Reeve](https://www.ornl.gov/staff-profile/samuel-t-reeve). I developed [CabanaPF](https://github.com/ORNL/CabanaPF), a phase-field code built on Cabana and Kokkos. These are exascale HPC libraries focused on cross-platform portability, which allowed me to run my code on ORNL's Summit and Frontier supercomputers. This work was published in ["Co-design for Particle Applications at Exascale"](https://ieeexplore.ieee.org/abstract/document/10490005).
 
+<div id="twosided">
+<div id="left" style="float: left; max-width: 40%; border: 10px"> 
+    <img src="images/PFHub1a_50.jpg" />
+    <p> [PFHub benchmark problem 1a](https://pages.nist.gov/pfhub/benchmarks/benchmark1.ipynb/) at t=50, as calculated by CabanaPF. The system has separated into two minimal-energy phases: c=.3 and .7 </p>
+</div>
+<div id="right" style="float: right; max-width: 45%; border: 10px;">
+    <img src="images/PFHub1a_1000.jpg" />
+    <p> The same problem at t=1000. The system continues lowering the free energy by reducing the border length between the two phases. </p>
+</div>
+</div>
+<div id="clearer" style="clear: both"> </div>
+
 **Fall 2023:** I was mentored by Dr. [Prasanna Date](https://www.ornl.gov/staff-profile/prasanna-date).  I created a method to run a genetic algorithm on a quantum computer using amplitude amplification.  I implemented my method using IBM Qiskit and tested it on problems including Max-Cut and classifying the Iris dataset.  In these noiseless simulations, it produced better solutions than the equivalent classical genetic algorithm.  I presented this work as a poster at [ORNL's 2024 QCUF workshop](https://www.olcf.ornl.gov/calendar/2024-quantum-computing-user-forum/).
 
 **Spring 2024:** I was mentored by Dr. [Stephen DeWitt](https://www.ornl.gov/staff-profile/stephen-dewitt).  I worked as part of the NEETER center, which researches electrifying industrial-scale chemistry.  I built an active learning Gaussian Process service in ORNL's INTERSECT autonomous science ecosystem.  This service sits in-the-loop with a data source and repeatedly suggests data points to optimize an experiment or simulation.  Along with collaborators at Georgia Tech, we used this service to find parameters for a computational chemistry model that best matched experimental data.
