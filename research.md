@@ -15,12 +15,12 @@ During the 2023-2024 academic year, I was a research intern at Oak Ridge Nationa
 
 <div id="twosided">
 <div id="left" style="float: left; max-width: 40%; border: 10px"> 
-    <img src="images/PFHub1a_50.jpg" />
-    <p> [PFHub benchmark problem 1a](https://pages.nist.gov/pfhub/benchmarks/benchmark1.ipynb/) at t=50, as calculated by CabanaPF. The system has separated into two minimal-energy phases: c=.3 and .7 </p>
+    <img src="images/PFHub1a_50.png" />
+    <p> <a href="https://pages.nist.gov/pfhub/benchmarks/benchmark1.ipynb/">PFHub benchmark problem 1a</a> at t=50, as calculated by CabanaPF. The initially mixed system has separated into two minimal-energy phases: c=.3 and .7</p>
 </div>
 <div id="right" style="float: right; max-width: 45%; border: 10px;">
-    <img src="images/PFHub1a_1000.jpg" />
-    <p> The same problem at t=1000. The system continues lowering the free energy by reducing the border length between the two phases. </p>
+    <img src="images/PFHub1a_1000.png" />
+    <p> The same problem at t=1000. The system has further lowered the free energy by reducing the border length between the two phases.</p>
 </div>
 </div>
 <div id="clearer" style="clear: both"> </div>
